@@ -6,3 +6,4 @@ let resultado = parseInt(anio) - parseInt (nacimiento)
 alert ("hola tenes" + " " + resultado + " " + "años")
 
 
+console.log ("probando github desde visual")
